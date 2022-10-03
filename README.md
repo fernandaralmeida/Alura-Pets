@@ -1,17 +1,42 @@
-# Nome do meu projeto
+# Alura Pets: Site para pet shop
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto desenvolvido para o terceiro desafio UX da Alura.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Alura Pets**
+| :rocket: URL         |https://www.behance.net/gallery/154040771/Alura-Pets-UXUI-Case-Study
+| :fire: Desafio     | https://www.alura.com.br/challenges/ux-3
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Apresentação AluraPets_Capa](https://user-images.githubusercontent.com/114711104/193664102-aa4f29ca-8b0a-465d-84be-5332bb3deaf3.png)#vitrinedev
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+![Apresentação AluraPets_Capa](https://user-images.githubusercontent.com/114711104/193664264-91bec8fd-e1ab-49fc-97d1-b9abbb3b4e4e.png)
+![Apresentação AluraPets_Introdução](https://user-images.githubusercontent.com/114711104/193664289-30aa8e8b-997f-4680-b2ed-3c66fbd313cb.png)
+![Apresentação AluraPets_Problema](https://user-images.githubusercontent.com/114711104/193664556-1205f0f4-2193-40d0-8390-60fcb6fb9cf5.png)
+![Apresentação AluraPets](https://user-images.githubusercontent.com/114711104/193664616-cdda2648-61d5-4770-ae71-1a61d1bbae14.png)
+![Apresentação AluraPets_Matriz CSD](https://user-images.githubusercontent.com/114711104/193664642-89bddb8e-ddb1-42a4-be62-b0293cf3b220.png)
+![Apresentação AluraPets_Formulário](https://user-images.githubusercontent.com/114711104/193664682-9b45b33f-937e-4b5b-9134-0d6d29f1fdfd.png)
+![Apresentação AluraPets_Formulário 2](https://user-images.githubusercontent.com/114711104/193664696-cffd0251-af34-4db4-b3fb-eb67ae52d900.png)
+![Apresentação AluraPets_Formulário 3](https://user-images.githubusercontent.com/114711104/193664714-553edffc-fb0c-4b2c-8cc1-5277a6af347a.png)
+![Apresentação AluraPets_novo](https://user-images.githubusercontent.com/114711104/193664830-fa72c9b3-6af0-4b61-8272-b9f2eddd7ff4.png)
+![Apresentação AluraPets_Persona](https://user-images.githubusercontent.com/114711104/193664878-31f57662-dcb6-43a6-8324-5239e7eb5b6e.png)
+![Apresentação AluraPets_Cenários e Árvore de problemas](https://user-images.githubusercontent.com/114711104/193664921-5502d52b-eb9a-4d4d-9e33-89cad33b4990.png)
+![Apresentação AluraPets_Mapa da jornada](https://user-images.githubusercontent.com/114711104/193665076-7d1ec231-d3c4-4b3e-87a8-7607f7abb590.png)
+![Apresentação AluraPets_Matriz ImpactoxValor](https://user-images.githubusercontent.com/114711104/193664967-9d6c1672-bb0e-49a2-865a-babc0ed68d35.png)
+![Apresentação AluraPets_Userflow](https://user-images.githubusercontent.com/114711104/193664993-c20dd3ad-c226-4516-911a-47c0b14705c7.png)
+![Apresentação AluraPets_Wireframe_Baixa](https://user-images.githubusercontent.com/114711104/193665161-b986fe41-f1f3-47f4-b234-beb6df613595.png)
+![Apresentação AluraPets_Wireframe_média](https://user-images.githubusercontent.com/114711104/193665192-5f33783d-7d9b-4c7a-ada5-1f36c3148168.png)
+![Apresentação AluraPets_Wireframe_Alta-Desk](https://user-images.githubusercontent.com/114711104/193665223-845328ed-c0b8-4d91-b943-4e587b025fd6.png)
+![Apresentação AluraPets_Wireframe_Alta-mobile](https://user-images.githubusercontent.com/114711104/193665238-260872c2-56c1-4a88-b4a6-ffbdecf15edd.png)
+
+
+
+Acesse o protótipo navegável da versão mobile aqui: 
+https://www.figma.com/proto/mpYn6nv9xpIvDdllbALBxG/AluraPets_AltaFidelidade?node-id=1%3A121&scaling=scale-down&page-id=1%3A120&starting-point-node-id=1%3A121&show-proto-sidebar=1
+
+Acesse o protótipo da versão desktop aqui: 
+https://www.figma.com/proto/mpYn6nv9xpIvDdllbALBxG/AluraPets_AltaFidelidade?node-id=83%3A2618&scaling=min-zoom&page-id=76%3A1338&starting-point-node-id=83%3A2618
+
